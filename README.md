@@ -1,0 +1,15 @@
+# Search-visualizer-c
+This is a basic program to visualize different sorting and searcging techniques 
+![Screenshot (58)](https://user-images.githubusercontent.com/91087552/185758303-af237e1d-4863-40a4-978b-a682262a9e82.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/91087552/185758305-d0eae6c6-e0d3-4ac4-b973-ee960c1931a1.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/91087552/185758306-a27e5ded-d6a0-4f4f-95b8-1eb90e3e3560.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/91087552/185758309-85394564-a1c5-4ed7-93d5-1e283532f55d.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/91087552/185758312-dcbb1ef8-b33f-49f2-8fcc-76fe3376d80f.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/91087552/185758317-4480b884-1116-4832-8fa9-d46aad7a6b70.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/91087552/185758319-cbfe6290-f8ec-4c63-9deb-c6e87cbd445b.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/91087552/185758321-71a59a6f-bb51-4bea-a88d-40bb7871409e.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/91087552/185758322-1f59cb96-9079-4383-9b84-fadbef3df275.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/91087552/185758325-6a80f03c-41b1-4b91-bd5d-4db0819d06ac.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/91087552/185758327-55c62434-a0d0-4ef2-acbb-a506ba1df6b4.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/91087552/185758331-5f148ecb-57c7-4ea0-a94e-b414c10c34c9.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/91087552/185758333-e3427c3c-e9ba-4dc6-9c59-20a14b02af41.png)
